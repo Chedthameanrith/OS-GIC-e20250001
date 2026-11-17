@@ -1,0 +1,3 @@
+/home/gic-am-chedthameanrith/oslab-work/lab1/task2_files
+panda.txt
+rocket.txt
