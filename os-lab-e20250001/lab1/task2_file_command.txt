@@ -1,5 +1,0 @@
-This is file panda
-This is file rocket
-panda.txt
-panda_copy.txt
-rocket_renamed.txt
