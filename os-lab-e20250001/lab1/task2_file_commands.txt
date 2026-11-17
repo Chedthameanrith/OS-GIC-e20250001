@@ -1,0 +1,23 @@
+/home/gic-am-chedthameanrith/oslab-work/lab1/task2_files
+panda.txt
+rocket_renamed.txt
+FILE1.txt
+FILE2.txt
+panda.txt
+rocket_renamed.txt
+This is file FILE1
+This is file FILE2
+FILE1.txt
+FILE1_copy.txt
+FILE2.txt
+panda.txt
+rocket_renamed.txt
+FILE1.txt
+FILE1_copy.txt
+FILE2_renamed.txt
+panda.txt
+rocket_renamed.txt
+FILE1.txt
+FILE2_renamed.txt
+panda.txt
+rocket_renamed.txt

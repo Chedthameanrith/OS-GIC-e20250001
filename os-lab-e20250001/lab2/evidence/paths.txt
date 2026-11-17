@@ -1,0 +1,9 @@
+ cd incoming
+mv--"$file1"
+mv -- "$OSLAB_WORKSPACE/lab2/incoming/$file2"
+"$OSLAB_WORKSPACE/lab2/reports/"
+cp -- reports/"$file1" reports/"$file2" TechCorp/"$owner"/
+cp -- "reports/$file1" "TechCorp/$owner/archive/first-original.txt"
+Error: cat: 'reports/budget 2026.txt': No such file or directory
+Fix: ../../reports/budget 2026.txt
+
