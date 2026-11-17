@@ -1,0 +1,3 @@
+mv command: mv -- '../a/b/lost file.txt' found.txt
+cp command: cp -- found.txt '../../TechCorp/Support/'
+Parent count: 2 levels up (../../)
